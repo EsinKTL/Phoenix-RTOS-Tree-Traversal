@@ -35,7 +35,7 @@ Practical demonstrations of the system call in a user environment.
 The implementation was successfully verified in a QEMU environment. The program demonstrated the ability to reach a depth of 10 and correctly identify the target process (Leaf PID).
 
 **Execution Proof:**
-![Result Screenshot](./docs/screenshot_depth10.png)
+![Result Screenshot](result_screenshot.png)
 *(Note: The full execution log can be seen in the screenshot above, showing successful leaf detection at Depth 10.)*
 
 ## Building and Running
